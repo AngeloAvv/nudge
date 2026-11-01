@@ -26,7 +26,7 @@ platforms:
   windows:
 
 dependencies:
-  clock: ^1.1.2
+  clock: ^1.1.3
   # Imported by the ObjectBox generated bindings.
   flat_buffers: ^25.9.23
   flutter:
